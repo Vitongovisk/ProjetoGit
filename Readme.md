@@ -1,2 +1,2 @@
-This project will teach how to use git
+This project will teach how to use git \n
 Primeira alteraçao
